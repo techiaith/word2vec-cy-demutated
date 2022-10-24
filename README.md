@@ -1,5 +1,7 @@
 [English text below](#demutated-welsh-language-vector-model)
 
+**Data: https://github.com/techiaith/word2vec-cy-demutated/tags**
+
 # Model Iaith Fectorau Dad-dreigledig Cymraeg
 
 Dyma fersiwn wedi'i ddad-dreiglo o'n model iaith word2vec Cymraeg. Hyfforddwyd y model ar gorpws ymchwil mewnol yr Uned Technolegau Iaith. Cyn hyfforddi'r model, rhagbroseswyd y corpws drwy geisio dad-dreiglo pob geirffurf treigladwy o'i ffurf dreigledig i'w ffurf gysefin.
