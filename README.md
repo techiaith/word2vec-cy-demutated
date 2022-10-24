@@ -1,4 +1,4 @@
-[English text below](#demutated-welsh-language-fector-model)
+[English text below](#demutated-welsh-language-vector-model)
 
 # Model Iaith Fectorau Dad-dreigledig Cymraeg
 
